@@ -1,0 +1,8 @@
+C:\Users\luiz\Desktop\cimatec\Multicamadas\Multicamadas.MODEL\Multicamadas.MODEL\obj\Debug\Multicamadas.MODEL.csproj.AssemblyReference.cache
+C:\Users\luiz\Desktop\cimatec\Multicamadas\Multicamadas.MODEL\Multicamadas.MODEL\obj\Debug\Multicamadas.MODEL.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz\Desktop\cimatec\Multicamadas\Multicamadas.MODEL\Multicamadas.MODEL\obj\Debug\Multicamadas.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\luiz\Desktop\cimatec\Multicamadas\Multicamadas.MODEL\Multicamadas.MODEL\bin\Debug\Multicamadas.MODEL.exe.config
+C:\Users\luiz\Desktop\cimatec\Multicamadas\Multicamadas.MODEL\Multicamadas.MODEL\bin\Debug\Multicamadas.MODEL.exe
+C:\Users\luiz\Desktop\cimatec\Multicamadas\Multicamadas.MODEL\Multicamadas.MODEL\bin\Debug\Multicamadas.MODEL.pdb
+C:\Users\luiz\Desktop\cimatec\Multicamadas\Multicamadas.MODEL\Multicamadas.MODEL\obj\Debug\Multicamadas.MODEL.exe
+C:\Users\luiz\Desktop\cimatec\Multicamadas\Multicamadas.MODEL\Multicamadas.MODEL\obj\Debug\Multicamadas.MODEL.pdb
